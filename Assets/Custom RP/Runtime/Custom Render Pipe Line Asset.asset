@@ -12,3 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 831ac15fc02f854498aed9cc5cfe7e3b, type: 3}
   m_Name: Custom Render Pipe Line Asset
   m_EditorClassIdentifier: 
+  useDynamicBatching: 0
+  useGPUInstancing: 1
+  useSRPBatcher: 1

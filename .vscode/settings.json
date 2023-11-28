@@ -54,6 +54,7 @@
     },
     "dotnet.preferCSharpExtension": true,
     "cSpell.words": [
+        "Behaviour",
         "LMRGBM",
         "Prepass",
         "Scriptable",
